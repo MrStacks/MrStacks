@@ -1,8 +1,8 @@
 ### Hi there 👋 
-🌱 I’m currently learning SQL and data analysis while improving my Python and Git skills!
+🌱 I’m currently learning SQL and data analysis while improving my Python and Git skills + more to come! 
 
 <!-- Actual text -->
-You can find me on [![LinkedIn][1.2]][1]
+You can find me on LinkedIn: [![LinkedIn][1.2]][1]
 <!-- Icons -->
 [1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 <!-- Links to your social media accounts -->
