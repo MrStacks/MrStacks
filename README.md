@@ -1,4 +1,4 @@
-### Hi there 👋 
+### Hello and welcome to my GitHub profile! 👋 
 🌱 I’m currently learning SQL and data analysis while improving my Python and Git skills + more to come! 
 
 <!-- Actual text -->
