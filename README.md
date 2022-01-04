@@ -1,5 +1,5 @@
 ### Hello and welcome to my GitHub profile! 👋 
-🌱 I’m presently (1/1/22) in the process of learning SQL/data analysis while improving my Python/Git skills, and there is plenty more to come.
+🌱 I’m presently (1/1/22) in the process of learning SQL/data analysis while improving my Python/Git skills, and I've got plenty more in the works.
 
 <!-- Actual text -->
 You can find me on LinkedIn here: [![LinkedIn][1.2]][1]
