@@ -1,11 +1,9 @@
 ### Hello and welcome to my GitHub profile! 👋 
-🌱 I’m presently (1/1/22) in the process of learning SQL/data analysis while improving my Python/Git skills, and I've got plenty more in the works.
 
-<!-- Actual text -->
-You can find me on LinkedIn here: [![LinkedIn][1.2]][1]
+
 <!-- Icons -->
 [1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-<!-- Links to your social media accounts -->
+<!-- Links to my social media accounts -->
 [1]: https://www.linkedin.com/in/keithstack/
 
 <table width="100%"> 
@@ -18,9 +16,8 @@ You can find me on LinkedIn here: [![LinkedIn][1.2]][1]
   <td width="50%">  
  
 <!-- feed start -->
-- 
-- 
--
+- 🌱 I’m presently (1/22) in the process of learning SQL/data analysis while improving my Python/Git skills, and I've got plenty more in the works.
+- You can find me on LinkedIn here: [![LinkedIn][1.2]][1]
 <!-- feed end -->
 
   </td>
