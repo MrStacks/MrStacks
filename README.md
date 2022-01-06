@@ -1,4 +1,4 @@
-### Hello and welcome to my GitHub profile! 👋 
+### Hello world! Welcome to my GitHub profile! 👋 
 
 
 <!-- Icons -->
