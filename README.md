@@ -11,7 +11,7 @@
   <td width="50%">
     
 <!-- feed start -->      
-- 🌱 I’m presently (1/22) in the process of learning SQL/data analysis while improving my Python/Git skills, and I've got plenty more in the works.
+- 🌱 I’m presently (3/22) in the process of learning/practicing Postgres, Tableau, and preparing to start a machine learning project with the team at Datlas.org!
 - You can find me on LinkedIn here: [![LinkedIn][1.2]][1]
 <!-- feed end -->
     
