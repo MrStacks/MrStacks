@@ -38,6 +38,7 @@ On dev executing the "right way": https://basecamp.com/shapeup
     
 Brook’s Law: “Adding manpower to a late software project makes it later.” ~ Fred Brooks    
 
+“Any sufficiently advanced technology is indistinguishable from magic.” ~ Arthur C. Clarke    
 <!--
 More here: https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7
   https://yushi95.medium.com/how-to-create-a-beautiful-readme-for-your-github-profile-36957caa711c
