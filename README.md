@@ -11,7 +11,7 @@
   <td width="50%">
     
 <!-- feed start -->      
-- 🌱 I’m presently (3/22) in the process of learning/practicing Postgres, Tableau, and preparing to start a machine learning project with the team at Datlas.org!
+- 🌱 I’m presently (5/22) practicing my SQL and Python for data science skills while assisting data integration as a Technical Data Specialist at Paper Education! (paper.co)
 - You can find me on LinkedIn here: [![LinkedIn][1.2]][1]
 <!-- feed end -->
     
