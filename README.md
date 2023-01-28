@@ -11,7 +11,7 @@
   <td width="50%">
     
 <!-- feed start -->      
-- 🌱 I’m presently (5/22) practicing my SQL and Python for data science skills while assisting data integration as a Technical Data Specialist at Paper Education! (paper.co)
+- 🌱 I’m presently utilizing applying baseline data wrangling/data science skills while loving life doing data integration at Paper.co!
 - You can find me on LinkedIn here: [![LinkedIn][1.2]][1]
 <!-- feed end -->
     
