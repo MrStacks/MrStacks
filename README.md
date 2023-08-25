@@ -12,8 +12,6 @@
     
 <!-- feed start -->      
 - 🌱 Presently upskilling cloud/data/developer skills and seeking my next opportunity to contribute following the successful completion of my data role at Paper.co!
-- You can find me on LinkedIn here: [![LinkedIn][1.2]][1]
-<!-- feed end -->
     
   </td>
   <td width="50%">  
